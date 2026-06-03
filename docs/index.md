@@ -2,7 +2,7 @@
 layout: home
 hero:
   name: 成理工程生存指南
-  text: & 飞跃手册
+  text: '& 飞跃手册'
   tagline: 成都理工大学工程技术学院学生知识库，由同学们共建共享
   actions:
     - theme: brand

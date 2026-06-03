@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "成都理工大学工程技术学院 生存指南 & 飞跃手册",
   "private": true,
+  "type": "module",
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
