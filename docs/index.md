@@ -45,11 +45,6 @@ features:
 <span class="line"></span>
 </div>
 
-<div class="quote-section">
-<p class="quote-text">「前人栽树，后人乘凉。每一份经验的分享，都是对后来者最真诚的馈赠。」</p>
-<p class="quote-author">—— 致所有愿意分享的你</p>
-</div>
-
 ## 如何使用
 
 <div class="usage-grid">
