@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "skills": {
+    "baseline-ui": {
+      "source": "ibelick/ui-skills",
+      "sourceType": "github",
+      "skillPath": "skills/baseline-ui/SKILL.md",
+      "computedHash": "49817c981208de2f412719f7814d31eba2b2096462edc048a279d93f522cab0f"
+    },
+    "fixing-accessibility": {
+      "source": "ibelick/ui-skills",
+      "sourceType": "github",
+      "skillPath": "skills/fixing-accessibility/SKILL.md",
+      "computedHash": "4fa8f5a772b4eef3d28a54c136b507d070e54e2c326578f65eaf5e5a0118b38a"
+    },
+    "fixing-metadata": {
+      "source": "ibelick/ui-skills",
+      "sourceType": "github",
+      "skillPath": "skills/fixing-metadata/SKILL.md",
+      "computedHash": "699e13890fb50acffa02dfd2d5b0e719bd916a9e2b7e6035bdc4513fc73d9174"
+    },
+    "fixing-motion-performance": {
+      "source": "ibelick/ui-skills",
+      "sourceType": "github",
+      "skillPath": "skills/fixing-motion-performance/SKILL.md",
+      "computedHash": "426dcf33f23419643f2aab71e2253e1a5b5684a808fabb8a4ad135e489ed7a0f"
+    },
+    "impeccable": {
+      "source": "pbakaus/impeccable",
+      "sourceType": "github",
+      "skillPath": ".agents/skills/impeccable/SKILL.md",
+      "computedHash": "16180e7175cb29ef050926233b8514d7323294156890e1f1b17024ba8d9dab71"
+    },
+    "theme-factory": {
+      "source": "ComposioHQ/awesome-codex-skills",
+      "sourceType": "github",
+      "skillPath": "theme-factory/SKILL.md",
+      "computedHash": "93e78aa44f8fa00bb2c0608f400de1e1dcd6494611dd8ea27c867654240c7bcd"
+    }
+  }
+}
