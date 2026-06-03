@@ -3,7 +3,7 @@ layout: home
 hero:
   name: 成理工程生存指南
   text: '& 飞跃手册'
-  tagline: 成都理工大学工程技术学院学生知识库，由贴吧吧务团队运营，同学们共建共享
+  tagline: 成都理工大学工程技术学院学生知识库 · 由贴吧吧务团队运营
   actions:
     - theme: brand
       text: 生存指南
@@ -29,11 +29,37 @@ features:
 
 <div class="custom-home">
 
-## 前言
+## 关于本文档
 
-欢迎来到成理工程生存指南 & 飞跃手册。这是一份由成都理工大学工程技术学院贴吧吧务团队发起、同学们共同维护的知识库，旨在为在校生和新生提供实用的校园生活指南，以及为即将升学或就业的同学提供经验参考。
+欢迎来到成理工程生存指南 & 飞跃手册。这是一份由成都理工大学工程技术学院贴吧吧务团队发起、同学们共同维护的知识库。
 
-无论你是刚入学的新生，还是即将毕业的学长学姐，都欢迎在这里找到你需要的信息，也欢迎分享你的经验，帮助后来者少走弯路。
+我们希望为在校生和新生提供实用的校园生活指南，也为即将升学或就业的同学提供来自学长学姐的真实经验参考。无论你处于大学的哪个阶段，都欢迎在这里找到你需要的信息。
+
+## 如何使用
+
+<div class="usage-grid">
+<div class="usage-card">
+
+### 📖 阅读浏览
+
+通过顶部导航栏进入「生存指南」或「飞跃手册」，在侧边栏中选择感兴趣的主题阅读。
+
+</div>
+<div class="usage-card">
+
+### 🔍 搜索内容
+
+点击右上角的搜索按钮，输入关键词即可快速找到相关内容。
+
+</div>
+<div class="usage-card">
+
+### 📝 参与投稿
+
+如果你有经验想要分享，欢迎参考 [投稿指南](/contribute) 进行投稿，帮助后来者少走弯路。
+
+</div>
+</div>
 
 ## 加入我们
 
@@ -42,7 +68,7 @@ features:
 
 ### 💬 百度贴吧
 
-成都理工大学工程技术学院吧
+成都理工大学工程技术学院吧，获取最新校园资讯与交流互动。
 
 <a href="https://tieba.baidu.com/f?kw=成都理工大学工程技术学院" target="_blank" rel="noopener">前往贴吧 →</a>
 
@@ -53,14 +79,14 @@ features:
 
 QQ 群号：待公布
 
-入学后可加入
+入学后可加入，结识同届同学，获取入学指导。
 
 </div>
 <div class="community-card">
 
 ### ✍️ 投稿分享
 
-分享你的经验，帮助后来者
+分享你的升学、就业或校园生活经验。
 
 [了解投稿方式 →](/contribute)
 
@@ -70,71 +96,31 @@ QQ 群号：待公布
 </div>
 
 <style>
-.custom-home {
-  max-width: 960px;
-  margin: 0 auto;
-  padding: 0 24px 80px;
-}
-
-.custom-home h2 {
-  font-size: 1.75rem;
-  font-weight: 700;
-  margin-top: 48px;
-  margin-bottom: 16px;
-  border-bottom: 3px solid var(--color-accent, #d32f2f);
-  padding-bottom: 8px;
-}
-
-.custom-home p {
-  font-size: 1.05rem;
-  line-height: 1.8;
-  color: var(--vp-c-text-1);
-  margin-bottom: 16px;
-}
-
-.community-grid {
+.usage-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-  gap: 20px;
-  margin-top: 24px;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 16px;
+  margin-top: 20px;
 }
 
-.community-card {
-  padding: 24px;
-  border-radius: 12px;
-  border: 1px solid var(--vp-c-divider);
+.usage-card {
+  padding: 24px 20px;
+  border-radius: 10px;
   background: var(--vp-c-bg-soft);
-  transition: all 0.2s ease;
+  border: 1px solid var(--vp-c-divider);
 }
 
-.community-card:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
-}
-
-.community-card h3 {
-  font-size: 1.2rem;
+.usage-card h3 {
+  font-size: 1.05rem;
   font-weight: 700;
-  margin: 0 0 8px;
+  margin: 0 0 10px;
   color: var(--vp-c-text-1);
 }
 
-.community-card p {
+.usage-card p {
   font-size: 0.9rem;
   color: var(--vp-c-text-2);
-  margin: 0 0 12px;
-  line-height: 1.6;
-}
-
-.community-card a {
-  display: inline-block;
-  font-size: 0.85rem;
-  font-weight: 600;
-  color: var(--vp-c-brand-1);
-  text-decoration: none;
-}
-
-.community-card a:hover {
-  color: var(--color-accent, #d32f2f);
+  margin: 0;
+  line-height: 1.7;
 }
 </style>
