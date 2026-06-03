@@ -94,33 +94,3 @@ QQ 群号：待公布
 </div>
 
 </div>
-
-<style>
-.usage-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
-  gap: 16px;
-  margin-top: 20px;
-}
-
-.usage-card {
-  padding: 24px 20px;
-  border-radius: 10px;
-  background: var(--vp-c-bg-soft);
-  border: 1px solid var(--vp-c-divider);
-}
-
-.usage-card h3 {
-  font-size: 1.05rem;
-  font-weight: 700;
-  margin: 0 0 10px;
-  color: var(--vp-c-text-1);
-}
-
-.usage-card p {
-  font-size: 0.9rem;
-  color: var(--vp-c-text-2);
-  margin: 0;
-  line-height: 1.7;
-}
-</style>
