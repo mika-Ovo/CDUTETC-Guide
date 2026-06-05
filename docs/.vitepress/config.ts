@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 import { getSidebar } from './utils/sidebar'
 
 export default defineConfig({
-  base: '/CLGC/',
+  base: '/CDUTETC-Guide/',
   lang: 'zh-CN',
   title: '成理工程生存指南 & 飞跃手册',
   description: '成都理工大学工程技术学院学生生存指南与升学就业经验分享',
@@ -18,7 +18,7 @@ export default defineConfig({
       { text: '投稿指南', link: '/contribute' },
       {
         text: 'GitHub',
-        link: 'https://github.com/<username>/CLGC'
+        link: 'https://github.com/cdutetc-tieba/CDUTETC-Guide'
       }
     ],
 
@@ -32,7 +32,7 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/<username>/CLGC' }
+      { icon: 'github', link: 'https://github.com/cdutetc-tieba/CDUTETC-Guide' }
     ],
 
     footer: {
@@ -41,7 +41,7 @@ export default defineConfig({
     },
 
     editLink: {
-      pattern: 'https://github.com/<username>/CLGC/edit/main/docs/:path',
+      pattern: 'https://github.com/cdutetc-tieba/CDUTETC-Guide/edit/main/docs/:path',
       text: '在 GitHub 上编辑此页面'
     }
   }
