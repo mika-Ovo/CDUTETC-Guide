@@ -1,8 +1,8 @@
 ---
-title: {标题}
-category: {分类名称}
+title: { 标题 }
+category: { 分类名称 }
 order: 99
-description: {简要描述}
+description: { 简要描述 }
 ---
 
 # {标题}

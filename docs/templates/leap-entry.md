@@ -1,13 +1,13 @@
 ---
-title: {标题}
-author: {作者，可匿名}
-department: {院系}
-major: {专业}
-year: {毕业年份}
-destination: {升学/就业去向}
-type: {考研|出国|就业}
+title: { 标题 }
+author: { 作者，可匿名 }
+department: { 院系 }
+major: { 专业 }
+year: { 毕业年份 }
+destination: { 升学/就业去向 }
+type: { 考研|出国|就业 }
 tags: []
-date: {YYYY-MM-DD}
+date: { YYYY-MM-DD }
 ---
 
 # {标题}
