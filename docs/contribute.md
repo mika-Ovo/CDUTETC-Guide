@@ -35,11 +35,11 @@ title: 投稿指南
 
 ```yaml
 ---
-title: 文章标题          # 必填
-order: 1                 # 排序权重，数字越小越靠前
-description: 简要描述     # 用于 SEO
-author: 作者名           # 飞跃手册文章建议填写
-date: 2024-01-01         # 发布日期
+title: 文章标题 # 必填
+order: 1 # 排序权重，数字越小越靠前
+description: 简要描述 # 用于 SEO
+author: 作者名 # 飞跃手册文章建议填写
+date: 2024-01-01 # 发布日期
 ---
 ```
 

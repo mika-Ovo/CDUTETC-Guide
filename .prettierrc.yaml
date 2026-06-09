@@ -7,4 +7,4 @@ proseWrap: preserve
 overrides:
   - files: '*.md'
     options:
-      printWidth: off
+      printWidth: 200

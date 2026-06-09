@@ -10,8 +10,8 @@
     "docs:preview": "vitepress preview docs",
     "format": "prettier --write \"docs/**/*.md\"",
     "format:check": "prettier --check \"docs/**/*.md\"",
-    "lint": "markdownlint \"docs/**/*.md\" --ignore node_modules",
-    "lint:fix": "markdownlint --fix \"docs/**/*.md\" --ignore node_modules"
+    "lint": "markdownlint \"docs/**/*.md\" --ignore node_modules --ignore docs/superpowers",
+    "lint:fix": "markdownlint --fix \"docs/**/*.md\" --ignore node_modules --ignore docs/superpowers"
   },
   "devDependencies": {
     "vitepress": "^1.6.0",
